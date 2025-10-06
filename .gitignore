@@ -1,0 +1,10 @@
+.gradle
+/local.properties
+/.idea
+/build
+/captures
+# Android app binaries
+*.apk
+*.ap_
+obj/
+*.so
